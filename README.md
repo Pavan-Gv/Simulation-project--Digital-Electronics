@@ -45,4 +45,4 @@ endmodule
 ```
 
 # REFERENCE
-
+https://github.com/Pavan-Gv/Simulation-project--Digital-Electronics.git
